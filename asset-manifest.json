@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BiteCount/static/css/main.5468f82c.css",
+    "main.js": "/BiteCount/static/js/main.7f9a6779.js",
+    "index.html": "/BiteCount/index.html",
+    "main.5468f82c.css.map": "/BiteCount/static/css/main.5468f82c.css.map",
+    "main.7f9a6779.js.map": "/BiteCount/static/js/main.7f9a6779.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5468f82c.css",
+    "static/js/main.7f9a6779.js"
+  ]
+}
