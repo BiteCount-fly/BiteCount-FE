@@ -2,7 +2,7 @@
   "name": "react-firebase-auth",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ahmarcode.github.io/BiteCount-FE",
+  "homepage": "https://github.com/BiteCount-fly/BiteCount-FE",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
